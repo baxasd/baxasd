@@ -63,5 +63,5 @@ I am a Computer Science student at the University of Roehampton specializing in 
 ### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baxasd&hide_border=true&theme=dark&background=transparent" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baxasd&hide_border=true&theme=dark&background=transparent" width="50%" alt="GitHub Streak" />
 </p>
